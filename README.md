@@ -159,4 +159,4 @@ to build a polished, real-world digital product.
 
 🌍 Live Website
 
-👉 https://card-b0ard.github.io/ai-podcast-hub/
+👉 https://card-b0ard.github.io/EchoHub/
