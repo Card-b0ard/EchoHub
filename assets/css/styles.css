@@ -1687,4 +1687,8 @@ body.dark-mode .progress-bar {
   border: 0;
 }
 
+.member-portrait--placeholder {
+  display: none !important;
+}
+
 background: radial-gradient(circle at 50
